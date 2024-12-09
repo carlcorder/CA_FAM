@@ -1,0 +1,15 @@
+* `/json/account-settings/get`
+* `/json/account-settings/set-individuals-v1`
+* `/json/discussion/question`
+* `/json/get-practice-dashboard`
+* `/json/learn/get-user-schedule`
+* `/json/learn/search-indexes`
+* `/json/learn/update-content-visit`
+* `/json/login`
+* `/json/my-discussion/search`
+* `/json/notifications/clear-unseen`
+* `/json/practice/score`
+* `/json/practice/update`
+* `/json/study/GetStudyNotifications`
+* `/json/study/get-exam-dashboard`
+* `/json/study/get/section-or-content`
