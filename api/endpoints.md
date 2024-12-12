@@ -1,6 +1,8 @@
 * `/json/account-settings/get`
 * `/json/account-settings/set-individuals-v1`
 * `/json/discussion/question`
+* `/json/exam-generate`
+* `/json/exam-validate`
 * `/json/get-practice-dashboard`
 * `/json/learn/get-user-schedule`
 * `/json/learn/search-indexes`
