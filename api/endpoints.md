@@ -1,6 +1,7 @@
 * `/json/account-settings/get`
 * `/json/account-settings/set-individuals-v1`
 * `/json/discussion/question`
+* `/json/discussion/post/vote`
 * `/json/exam-generate`
 * `/json/exam-validate`
 * `/json/get-practice-dashboard`
