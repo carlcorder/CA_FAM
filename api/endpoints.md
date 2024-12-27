@@ -11,6 +11,7 @@
 * `/json/login`
 * `/json/my-discussion/search`
 * `/json/notifications/clear-unseen`
+* `/json/practice/exam/get`
 * `/json/practice/GetHistory/${exam_name}`
 * `/json/practice/score`
 * `/json/practice/update`
