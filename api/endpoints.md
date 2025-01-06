@@ -14,7 +14,7 @@
 * `/json/my-discussion/search`
 * `/json/notifications/clear-unseen`
 * `/json/practice/exam/get`
-* `/json/practice/GetHistory/${exam_name}`
+* `/json/practice/GetHistory/${examName}`
 * `/json/practice/GetSectionReport`
 * `/json/practice/score`
 * `/json/practice/update`
