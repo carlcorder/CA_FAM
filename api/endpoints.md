@@ -6,6 +6,7 @@
 * `/json/discussion/post/vote`
 * `/json/exam-generate`
 * `/json/exam-validate`
+* `/json/forum/user-questions/get`
 * `/json/get-practice-dashboard`
 * `/json/learn/get-user-schedule`
 * `/json/learn/search-indexes`
