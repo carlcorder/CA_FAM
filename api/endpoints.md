@@ -1,5 +1,7 @@
 * `/json/account-settings/get`
 * `/json/account-settings/set-individuals-v1`
+* `/json/discussion/content/get`
+* `/json/discussion/general/${forumid}`
 * `/json/discussion/question`
 * `/json/discussion/post/vote`
 * `/json/exam-generate`
@@ -13,6 +15,7 @@
 * `/json/notifications/clear-unseen`
 * `/json/practice/exam/get`
 * `/json/practice/GetHistory/${exam_name}`
+* `/json/practice/GetSectionReport`
 * `/json/practice/score`
 * `/json/practice/update`
 * `/json/study/GetStudyNotifications`
