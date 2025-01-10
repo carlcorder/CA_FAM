@@ -1,8 +1,8 @@
 * `/json/account-settings/get`
 * `/json/account-settings/set-individuals-v1`
 * `/json/discussion/content/get`
-* `/json/discussion/general/${forumid}`
-* `/json/discussion/question`
+* `/json/discussion/general/${forum_id}`
+* `/json/discussion/question/${question_id}`
 * `/json/discussion/post/vote`
 * `/json/exam-generate`
 * `/json/exam-validate`
@@ -15,7 +15,7 @@
 * `/json/my-discussion/search`
 * `/json/notifications/clear-unseen`
 * `/json/practice/exam/get`
-* `/json/practice/GetHistory/${examName}`
+* `/json/practice/GetHistory/${exam_name}`
 * `/json/practice/GetSectionReport`
 * `/json/practice/score`
 * `/json/practice/update`
