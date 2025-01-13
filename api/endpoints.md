@@ -22,3 +22,18 @@
 * `/json/study/GetStudyNotifications`
 * `/json/study/get-exam-dashboard`
 * `/json/study/get/section-or-content`
+
+Most endpoints require POSTing a JSON request payload E.g.
+
+```json
+{
+  "id": "12345",
+  "examName": "fam"
+}
+```
+
+Some endpoints require in the request header
+* `Refer(r)er: https://account.coachingactuaries.com/fam/xyz`
+
+All requests will require cookie based authorization in the request header (hexadecimal string)
+* `Cookie: .APAUTH=123456789ABCDEF;`
