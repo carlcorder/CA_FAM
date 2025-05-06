@@ -2,5 +2,5 @@
   <script type="text/javascript">
     alert('Hello from SVG!');
   </script>
-  <circle cx="100" cy="100" r="40" stroke="green" stroke-width="4" fill="yellow" />
+  <circle cx="200" cy="200" r="100" stroke="green" stroke-width="4" fill="yellow" />
 </svg>
