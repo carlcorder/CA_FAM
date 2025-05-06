@@ -1,0 +1,1 @@
+<svg onload="alert('Hello')"><circle r="45" cx="50" cy="50" fill="red" /></svg>
